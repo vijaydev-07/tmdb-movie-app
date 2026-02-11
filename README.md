@@ -50,6 +50,7 @@ The project follows a modular and scalable folder structure for maintainability.
 
 ## 📁 Project Structure
 
+<pre> ```
 my-app/
 ├── src/
 │   ├── components/
@@ -81,7 +82,7 @@ my-app/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+``` </pre>
 ---
 
 ## ⚙️ Installation & Setup
